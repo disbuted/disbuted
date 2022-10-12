@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Disbuted/Realism</h1>
+<h3 align="center">A passionate frontend developer for LUA, C++ and Python.</h3>
+
 ### <p align="center">☕ &nbsp;Buy me a coffee</p>
 <br>
 <p align="center"><strong>
