@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Disbuted/Realism</h1>
-<h3 align="center">A passionate frontend developer for LUA, C++ and Python.</h3>
-
 ### <p align="center">☕ &nbsp;Buy me a coffee</p>
 <br>
 <p align="center"><strong>
@@ -28,3 +25,20 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/disbuted/count.svg" />
 </p>
+-----
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=disbuted&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disbuted&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</details>
+
+
+<details>	
+  <summary><b>⚡ Socials</b></summary>
+
+- Discord: [realism#7323]
+
+- Telegram: [COMING SOON]
+</details>
