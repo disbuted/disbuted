@@ -27,4 +27,6 @@
 - Discord: [realism#7323]
 
 - Telegram: [COMING SOON]
+
+- Instagram: [@antic0n]
 </details>
