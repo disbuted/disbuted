@@ -6,18 +6,6 @@
   Solana: 5QLBL73DPFxE7acUq7tT3Gk6SbuE3fFWiuKi8MbribSQ<br>
 </strong></p>
 
-
------
-### <p align="center">⚙️ &nbsp;Statistics</p>
-<br>
-<p align="center">
-<a href="https://github.com/disbuted">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=disbuted&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disbuted&layout=compact&langs_count=8&theme=react&locale=fr"/>
-</a>
-  
-</p>
-
 -----
 
 ### <p align="center">👀 &nbsp;Visitors</p>
@@ -30,8 +18,8 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=disbuted&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disbuted&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=disbuted&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disbuted&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </details>
 
 
