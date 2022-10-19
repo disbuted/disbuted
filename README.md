@@ -1,9 +1,9 @@
 <!-- Hi skid <3 -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/onlp</a></h2>
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/memory">.gg/onlp</a></h2>
 
 <!-- <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
+    <img alt="" src=https://img.shields.io/github/stars/disbuted?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=disbuted&style=for-the-badge />
 </p> -->
 
 <p href="https://discord.gg/onlp" align="center">
@@ -27,8 +27,8 @@ class Attributes:
 	
 	@staticmethod
 	def life(self) -> tuple:
-		langs         = ['French', 'German', 'Spanish', 'English']
-		nationalities = self.langs.remove('French', 'English').append('Korean')
+		langs         = ['Russian', 'German', 'Spanish', 'English']
+		nationalities = self.langs.remove('English')
 		age           = 16
 		
 		return langs, nationalities, age
