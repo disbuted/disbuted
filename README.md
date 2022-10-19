@@ -1,32 +1,69 @@
-### <p align="center">☕ &nbsp;Buy me a coffee</p>
-<br>
-<p align="center"><strong>
-  Bitcoin: bc1qmjacutc4el20zur50620gvjnml28htwhksym0w<br>
-  Ethereum: 0x3be0dBa855fe4d3F03812Dc437c4D6341443923d<br>
-  Solana: 5QLBL73DPFxE7acUq7tT3Gk6SbuE3fFWiuKi8MbribSQ<br>
-</strong></p>
+<!-- Hi skid <3 -->
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/onlp">.gg/onlp</a></h2>
 
-### <p align="center">👀 &nbsp;Visitors</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/disbuted/count.svg" />
+<!-- <p align="center">
+    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
+</p> -->
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
 </p>
-<--------------------------------------------------------------------------------------------------------------------------------------------------->
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
 
-  <br />
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=disbuted&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disbuted&layout=compact&langs_count=8&theme=react&locale=fr"/>
-</details>
+```python
+import bitches
 
+class Attributes:
+	def __init__(self) -> None:
+		bitches.get('bitches')
+	
+	@staticmethod
+	def contact(self) -> tuple:
+	    discord  = "&! Tekky#1337"
+	    telegram = "t.me/xtekky"
+	    proton   = "xtekky@protonmail.com"
+	    
+	    return discord, telegram, proton
+	
+	@staticmethod
+	def life(self) -> tuple:
+		langs         = ['French', 'German', 'Spanish', 'English']
+		nationalities = self.langs.remove('French', 'English').append('Korean')
+		age           = 16
+		
+		return langs, nationalities, age
+	
+	@staticmethod
+	def coding(self) -> tuple:
+		langs = {
+			'expert':   ['python'],
+			'intermediate': ['go'],
+			'learning': ['js', 'c', 'c++', 'c#', 'asm', 'java']
+		}
+		specialities  = ['web/app reverse engineering', 'discord bots'. 'backend']
+		environnement = ['vscode', 'pycharm']
+		
+		return langs, specialities, environnement
+	
+	@staticmethod
+	def projects(self) -> tuple:
+		discord   = ['HQ Gen', 'Raid Toolkit']
+		tiktok    = ['view bot', 'Algorithms']
+		instagram = ['Gen', 'Botting']
+		twitch    = ['Free Gen', 'Everything u can think of']
+		website   = ['Full TikTok API', 'Backend']
+		
+		return discord, tiktok, instagram, twitch, website
 
-<details>	
-  <summary><b>⚡ Socials</b></summary>
+```
+<h2 align="center">Skills </h2>
 
-- Discord: [realism#7323]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+  </a>
+</p>
 
-- Telegram: [COMING SOON]
-
-- Instagram: [@antic0n]
-</details>
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=xtekky&show_icons=true&theme=tokyonight>
+</p>
