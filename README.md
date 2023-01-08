@@ -5,7 +5,7 @@
 <h1 align="center">abusing perms since '20</h1>
 <a href="https://github.com/disbuted">
   <p align="center">
-    <img src="https://gpvc.arturio.dev/disbuted" alt="Profile Views">
+    <img src="https://gpvc.arturio.dev/disbuted&color=blueviolet" alt="Profile Views">
   </p>
 </a>
 
