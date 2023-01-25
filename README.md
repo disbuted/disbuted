@@ -20,9 +20,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/disbuted&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/971796231502331924.png" />
