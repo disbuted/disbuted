@@ -2,7 +2,7 @@
 ![Header](./header.png)
 
 
-<h1 align="center">abusing perms since '20</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Slabo&pause=1000&color=F7F7F7&width=435&lines=Abusing+Perms+Since+'20" alt="Typing SVG" /></a>
 <a href="https://github.com/disbuted">
   <p align="center">
     <img src="https://gpvc.arturio.dev/disbuted" alt="Profile Views">
