@@ -1,7 +1,7 @@
 
 ![Header](./header.png)
 
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Slabo&pause=1000&color=F7F7F7&width=435&lines=Abusing+Perms+Since+'20" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://github.com/disbuted">
