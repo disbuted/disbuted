@@ -21,7 +21,14 @@
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/804666654604263425.png" />
+<iframe
+    title="Discord user embed"
+    width="340"
+    height=192
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=804666654604263425&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=false&guess-nitro=false&"
+></iframe>
 </p>
 
 
