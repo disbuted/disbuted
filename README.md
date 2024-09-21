@@ -2,7 +2,7 @@
 ![Header](./header.png)
 
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Turning+knowledge+into+defense." alt="Typing SVG"</h1>
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=Abusing+the+kernel+since+'20" alt="Typing SVG"</h1>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=Abusing+the+kernel+since+'20" alt="Typing SVG"</h2>
 <a href="https://github.com/disbuted">
   <p align="center">
   </p>
