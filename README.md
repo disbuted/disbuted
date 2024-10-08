@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/804666654604263425.png" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/804666654604263425)](https://discord.com/users/804666654604263425)
 </p>
 
 
