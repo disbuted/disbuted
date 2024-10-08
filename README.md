@@ -19,10 +19,4 @@
 
 ---
 
-
-<p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/804666654604263425)](https://discord.com/users/804666654604263425)
-</p>
-
-
 ![Footer](./footer.png)
