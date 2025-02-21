@@ -6,11 +6,13 @@
   </p>
 </a>
 
-<h4 align="center">Current Known Languages</h4>
+<h4 align="center">Known / Learning Languages</h4>
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/discord-js/discord-js.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/curl/curl.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cryptography/cryptography.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 </p>
 
 ---
