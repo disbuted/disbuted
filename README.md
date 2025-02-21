@@ -1,4 +1,3 @@
-
 ![Header](./header.png)
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECEC&width=435&lines=Just+a+silly+guy+coding+silly+things+" alt="Typing SVG" /></a>
@@ -9,7 +8,7 @@
 
 <h4 align="center">Current Known Languages</h4>
 <p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/discord-js/discord-js.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 </p>
