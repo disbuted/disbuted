@@ -1,7 +1,7 @@
 
 ![Header](./header.png)
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECEC&width=435&lines=Just+a+silly+guy+coding+silly+stuff+" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ECEC&width=435&lines=Just+a+silly+guy+coding+silly+things+" alt="Typing SVG" /></a>
 <a href="https://github.com/disbuted">
   <p align="center">
   </p>
