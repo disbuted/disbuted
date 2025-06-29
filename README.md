@@ -8,6 +8,8 @@
   </a>
 <h4 align="center">Known / Learning Languages</h4>
 
+<br />
+
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/curl/curl.png" alt="cURL"></code>
@@ -16,12 +18,13 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
 </p>
 
-
+<br />
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/804666654604263425.png" alt="Discord Status Widget" />
 </p>
 
+<br />
 
 <h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
