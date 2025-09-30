@@ -26,6 +26,7 @@
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/804666654604263425.png" alt="Discord Status Widget" />
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </p>
 
 <p align="center">
