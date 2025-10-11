@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://e-z.bio/£">
-    <img src="https://img.shields.io/badge/Contact_Me-7289DA?style=for-the-badge&logo=linktree&logoColor=white" alt="View my biolink to contact me!" />
+    <img src="https://img.shields.io/badge/Contact_Me_Here!-7289DA?style=for-the-badge&logo=linktree&logoColor=white" alt="View my biolink to contact me!" />
   </a>
 </p>
 
