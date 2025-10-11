@@ -25,7 +25,7 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio" title="Visual Studio 2022"></code>
   <code><img height="30" src="https://cdn.discordapp.com/attachments/1231924673806073856/1426661277811347546/download.png?ex=68ec095a&is=68eab7da&hm=e449d41fbc889f24cbb1ca13b8d91ede432d02143c0154c97dd0cc3f380336b2&" alt="IDA Pro" title="IDA Pro"></code>
   <code><img height="30" src="https://imgs.search.brave.com/yi6cHlTfrczxHtmx7pESIYw2ifX74GuHJ2tfW4ZI6IU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aW5mb3JtZXIuY29t/L2ljb25zL3BuZy80/OC8zNDQyLzM0NDI1/NjgucG5n" alt="VMProtect" title="VMProtect"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git"></code>
+  <code><img height="30" src="https://cdn.discordapp.com/attachments/1231924673806073856/1426662095239254108/themida.png?ex=68ec0a1d&is=68eab89d&hm=875d5b79e5f8822d2f0b79e255db6e2904d0763cdddafe1dc7f2b2e053a0a304&" alt="Themida" title="Themida"></code>
 </p>
 
 ---
