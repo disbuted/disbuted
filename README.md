@@ -59,6 +59,8 @@
 
 **I want to make it clear that I do not condone cheating in any form. My posts and repositories are created with the intention of enhancing the gaming experience, promoting fair play, and supporting the gaming community. I believe in fostering a healthy, enjoyable environment for all players, and my work is focused on making games better through legitimate means. Cheating undermines the spirit of gaming, and I encourage everyone to play with integrity and respect for others.**
 
+**If anyone wants to reach out to me in regards to my current github repositories, please contact my email at disbuted@proton.me**
+
 ---
 
 <p align="center">
