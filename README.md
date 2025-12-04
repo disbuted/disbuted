@@ -59,6 +59,10 @@
 
 **I want to make it clear that I do not condone cheating in any form. My posts and repositories are created with the intention of enhancing the gaming experience, promoting fair play, and supporting the gaming community. I believe in fostering a healthy, enjoyable environment for all players, and my work is focused on making games better through legitimate means. Cheating undermines the spirit of gaming, and I encourage everyone to play with integrity and respect for others.**
 
+**Everyone I post too is me slowly enhancing my knowledge in c++ and whatever languages I choose! If a product is being shown as a game cheat, I've ran it in my own private lobbies or disabled the anticheat (if available) to not ruin anyones experience!**
+
+**If any game developers wish for me to take down a github repo. please read below and contact me via my email :)**
+
 **If anyone wants to reach out to me in regards to my current github repositories, please contact my email at disbuted@proton.me**
 
 ---
